@@ -23,7 +23,7 @@
 5.2 Palabra reservada throw
 5.3 bloques try/catch/finally
 
-6. Threads y cncurrencia
+6. Threads y concurrencia
 6.1 Creacion de threads heredando la clase Thread
 6.2 Creación de thread implementando la interface Runnable
 6.3 Creación de threads con clases internas anonimas
